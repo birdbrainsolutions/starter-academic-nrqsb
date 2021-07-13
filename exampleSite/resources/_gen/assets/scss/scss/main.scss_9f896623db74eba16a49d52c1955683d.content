@@ -8089,7 +8089,7 @@ a.summary-link {
  *  Navigation bar
  **************************************************/
 .dropdown-menu {
-  background-color: #fff !important;
+  background-color: #3f51b5 !important;
   color: #34495e !important;
   z-index: 1032; }
 
