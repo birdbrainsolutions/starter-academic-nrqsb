@@ -14,8 +14,9 @@ authors:
 tags:
   - testtag
 categories:
-  - testcatergory
+  - testcategory
 external_link: "#"
+links: []
 image:
   filename: pexels-fauxels-3184611-1_csm.jpg
   focal_point: Smart
